@@ -4,8 +4,7 @@
 
 
 ### Learnings from the project
-
-Handling Program flow in Python
+Basics of Python
 Data Munging
 
 
